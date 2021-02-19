@@ -13,4 +13,6 @@ public class HelloController {
     public String hello(){
         return "Hello Spring";
     }
+    public String heloo2() {return " hi";}
 }
+
